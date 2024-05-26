@@ -4,7 +4,6 @@
 // @run-at     document-start
 // @author     @ti3no
 // @version        1.0
-// @license     MIT
 // @match          *://*/*
 // @antifeature    tracking
 // @grant          GM_setValue
